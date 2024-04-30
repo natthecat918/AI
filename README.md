@@ -22,4 +22,6 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+This software was able to accurately pull information from the story I put in from the Jerusalem Post. It was able to identify all of the people in the story as well as different cities and organizations that were named. When I double-checked I verified that everything was accounted for and in this case it was. 
+
+This is very useful technology and if more archives are pulled there is potential to make a database out of them which would keep everything more organized and highlight trends. I could definitely see it being cool to have a collection of all the articles from a news organization that mention a certain person, especially with political figures this would be interesting. 
